@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Naiya",
+  "base_artist": "JUMADIBA",
+  "createdAt": "2026-04-05T06:15:37.998659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Naiya Meri Manjhdhar",
+      "artist": "Mohammed Rafi",
+      "has_synced": true,
+      "path": "select/01_Naiya_Meri_Manjhdhar_Mohammed_Rafi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Naiya Jaldi Le Chalo Mujhe (Pt. 1)",
+      "artist": "Mohammed Rafi",
+      "has_synced": true,
+      "path": "select/02_Naiya_Jaldi_Le_Chalo_Mujhe_(Pt._1)_Mohammed_Rafi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Naiya Jaldi Le Chalo Mujhe, Pt. 1",
+      "artist": "Mohammed Rafi",
+      "has_synced": true,
+      "path": "select/03_Naiya_Jaldi_Le_Chalo_Mujhe,_Pt._1_Mohammed_Rafi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Naiya Ka Meri Tu Hi Khewaiya - From \"Zamana\"",
+      "artist": "Mohammed Rafi",
+      "has_synced": true,
+      "path": "select/04_Naiya_Ka_Meri_Tu_Hi_Khewaiya_-_From__Zamana_Mohammed_Rafi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Naiya Ka Meri Tu Hi Khewaiya",
+      "artist": "Mohammed Rafi",
+      "has_synced": true,
+      "path": "select/05_Naiya_Ka_Meri_Tu_Hi_Khewaiya_Mohammed_Rafi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nadi Bich Naiya Dole",
+      "artist": "Shilpi Raj",
+      "has_synced": false,
+      "path": "select/06_Nadi_Bich_Naiya_Dole_Shilpi_Raj.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Main Tooti Huyi Ek Naiya Hoon",
+      "artist": "Mohammed Rafi",
+      "has_synced": true,
+      "path": "select/07_Main_Tooti_Huyi_Ek_Naiya_Hoon_Mohammed_Rafi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nadi Biche Naiya Dole",
+      "artist": "Shilpi Raj",
+      "has_synced": false,
+      "path": "select/08_Nadi_Biche_Naiya_Dole_Shilpi_Raj.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sanwariya Mori Naiya Tara De",
+      "artist": "Anup Jalota",
+      "has_synced": true,
+      "path": "select/09_Sanwariya_Mori_Naiya_Tara_De_Anup_Jalota.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sanwariya Mori Naiya Tara De (Album Version)",
+      "artist": "Anup Jalota",
+      "has_synced": true,
+      "path": "select/10_Sanwariya_Mori_Naiya_Tara_De_(Album_Version)_Anup_Jalota.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nadi Biche Naiya Dole",
+      "artist": "Shilpi Raj",
+      "has_synced": true,
+      "path": "select/11_Nadi_Biche_Naiya_Dole_Shilpi_Raj.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "なんでもないや (movie ver.) - Nandemo Naiya",
+      "artist": "Mone Kamishiraishi",
+      "has_synced": true,
+      "path": "select/12_なんでもないや_(movie_ver.)_-_Nandemo_Naiya_Mone_Kamishiraishi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Amake Nao (Sagar Kuler Naiya Re Version)",
+      "artist": "Debayan Banerjee",
+      "has_synced": true,
+      "path": "select/13_Amake_Nao_(Sagar_Kuler_Naiya_Re_Version)_Debayan_Banerjee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Majhi Naiya Dhoondhe Kinara",
+      "artist": "Mukesh",
+      "has_synced": true,
+      "path": "select/14_Majhi_Naiya_Dhoondhe_Kinara_Mukesh.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Amake Nao (Sagar Kuler Naiya Re Version) (Cover)",
+      "artist": "Debayan Banerjee",
+      "has_synced": true,
+      "path": "select/15_Amake_Nao_(Sagar_Kuler_Naiya_Re_Version)_(Cover)_Debayan_Banerjee.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bhagwan Meri Naiya Us Paar Laga Dena",
+      "artist": "Vidhi Sharma",
+      "has_synced": true,
+      "path": "select/16_Bhagwan_Meri_Naiya_Us_Paar_Laga_Dena_Vidhi_Sharma.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SAGAR KULER NAIYA RE",
+      "artist": "NIRMALENDU",
+      "has_synced": true,
+      "path": "select/17_SAGAR_KULER_NAIYA_RE_NIRMALENDU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Naiya",
+      "artist": "JUMADIBA",
+      "has_synced": false,
+      "path": "select/pl_01_Naiya_JUMADIBA.txt"
+    }
+  ]
+}
